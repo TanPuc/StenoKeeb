@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name "Ai03")(type "Legacy")(uri "/Users/htanphuc/Downloads/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "/Users/htanphuc/Downloads/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "/Users/htanphuc/Downloads/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
 )
